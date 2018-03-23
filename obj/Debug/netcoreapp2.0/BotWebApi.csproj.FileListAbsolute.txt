@@ -1,0 +1,10 @@
+C:\AndreTrust\Treinamentos\Core\BotWebApi\BotWebApi\bin\Debug\netcoreapp2.0\BotWebApi.deps.json
+C:\AndreTrust\Treinamentos\Core\BotWebApi\BotWebApi\bin\Debug\netcoreapp2.0\BotWebApi.runtimeconfig.json
+C:\AndreTrust\Treinamentos\Core\BotWebApi\BotWebApi\bin\Debug\netcoreapp2.0\BotWebApi.runtimeconfig.dev.json
+C:\AndreTrust\Treinamentos\Core\BotWebApi\BotWebApi\bin\Debug\netcoreapp2.0\BotWebApi.dll
+C:\AndreTrust\Treinamentos\Core\BotWebApi\BotWebApi\bin\Debug\netcoreapp2.0\BotWebApi.pdb
+C:\AndreTrust\Treinamentos\Core\BotWebApi\BotWebApi\obj\Debug\netcoreapp2.0\BotWebApi.csproj.CoreCompileInputs.cache
+C:\AndreTrust\Treinamentos\Core\BotWebApi\BotWebApi\obj\Debug\netcoreapp2.0\BotWebApi.AssemblyInfoInputs.cache
+C:\AndreTrust\Treinamentos\Core\BotWebApi\BotWebApi\obj\Debug\netcoreapp2.0\BotWebApi.AssemblyInfo.cs
+C:\AndreTrust\Treinamentos\Core\BotWebApi\BotWebApi\obj\Debug\netcoreapp2.0\BotWebApi.dll
+C:\AndreTrust\Treinamentos\Core\BotWebApi\BotWebApi\obj\Debug\netcoreapp2.0\BotWebApi.pdb
